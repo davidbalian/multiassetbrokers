@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Apr 2025 11:07:09 at https://multiassetsbrokers.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://multiassetsbrokers.com/ -O1 "C:\My Web Sites\multiassetsbrokers" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:08:19	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/multiassetsbrokers.com/ (from https://multiassetsbrokers.com/)
+11:08:19	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://multiassetsbrokers.com/)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/powered-consultancy-review.html (from https://multiassetsbrokers.com/reviews/powered-consultancy-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/_layouts/default.html (from https://multiassetsbrokers.com/reviews/powered-consultancy-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/_layouts/review.html (from https://multiassetsbrokers.com/reviews/powered-consultancy-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/cmc-markets.html (from https://multiassetsbrokers.com/reviews/cmc-markets.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/ig-index.html (from https://multiassetsbrokers.com/reviews/ig-index.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/trade-dot-com-review.html (from https://multiassetsbrokers.com/reviews/trade-dot-com-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/inceptial-review.html (from https://multiassetsbrokers.com/reviews/inceptial-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/excentral-review.html (from https://multiassetsbrokers.com/reviews/excentral-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/seekapa-review.html (from https://multiassetsbrokers.com/reviews/seekapa-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/divicoins-review.html (from https://multiassetsbrokers.com/reviews/divicoins-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/fps-limited-review.html (from https://multiassetsbrokers.com/reviews/fps-limited-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/ms-limited-review.html (from https://multiassetsbrokers.com/reviews/ms-limited-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/quantum-markets-review.html (from https://multiassetsbrokers.com/reviews/quantum-markets-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/equitygates-review.html (from https://multiassetsbrokers.com/reviews/equitygates-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/gmz-global-review.html (from https://multiassetsbrokers.com/reviews/gmz-global-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/the-united-credit-broker-review.html (from https://multiassetsbrokers.com/reviews/the-united-credit-broker-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/the-digital-payments-revolution-how-key2pay-is-leading-the-way.html (from https://multiassetsbrokers.com/reviews/the-digital-payments-revolution-how-key2pay-is-leading-the-way.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/raze-markets-review-is-raze-markets-a-scam.html (from https://multiassetsbrokers.com/reviews/raze-markets-review-is-raze-markets-a-scam.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/isa-limited-review.html (from https://multiassetsbrokers.com/reviews/isa-limited-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/iforex-review-2024.html (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Platform-Interface.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/Features-of-iForex-1024x305.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Account-Opening-Process-1024x526.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Products-1024x511.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Trading-Tools-1024x367.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Bonuses-Promotions-1024x382.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Affiliate-Program-1024x391.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Forbidden" (403) at link https://www.cryptonewsz.com/wp-content/uploads/2021/12/iForex-Customer-Support-1024x349.png (from https://multiassetsbrokers.com/reviews/iforex-review-2024.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/farallonfx-toda-la-información-que-debes-conocer.html (from https://multiassetsbrokers.com/reviews/farallonfx-toda-la-información-que-debes-conocer.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/omplix-review.html (from https://multiassetsbrokers.com/reviews/omplix-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/axia-review.html (from https://multiassetsbrokers.com/reviews/axia-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/gloffix-review.html (from https://multiassetsbrokers.com/reviews/gloffix-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/instaforex-review.html (from https://multiassetsbrokers.com/reviews/instaforex-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/reviews/multiassetsbrokers.com/reviews/saxo-bank-review.html (from https://multiassetsbrokers.com/reviews/saxo-bank-review.html)
+11:09:33	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/multiassetsbrokers.com/privacy.html (from https://multiassetsbrokers.com/privacy.html)
+11:09:34	Error: 	"Not Found" (404) at link https://multiassetsbrokers.com/contact/multiassetsbrokers.com/contact/ (from https://multiassetsbrokers.com/contact/)
+11:11:33	Warning: 	Retry after error -2 (Receive Time Out) at link https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js (from https://multiassetsbrokers.com/contact/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 25 seconds : 128 links scanned, 88 files written (8138320 bytes overall) [7676907 bytes received at 28969 bytes/sec], 893215 bytes transferred using HTTP compression in 72 files, ratio 30%, 11.6 requests per connection
+(38 errors, 1 warnings, 0 messages)
