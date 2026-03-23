@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/multiassetsbroke/public_html/
-    - /bin/rsync -avz --delete --exclude='.git*' --exclude='.cpanel.yml' /home/multiassetsbroke/repositories/multiassetbrokers/ $DEPLOYPATH
+    - /bin/rsync -avz --delete --exclude='.git*' --exclude='.cpanel.yml' --exclude='deploy.php' --exclude='deploy_log.txt' /home/multiassetsbroke/repositories/multiassetbrokers/ $DEPLOYPATH
